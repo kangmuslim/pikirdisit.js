@@ -1,0 +1,2 @@
+# pikirdisit.js
+pikir disit
